@@ -42,13 +42,3 @@ Whether you're a fellow data nerd or a recruiter looking for dashboarding skills
 
 ---
 
-## 📁 File Structure
-
-```bash
-/
-├── Spotify_Dashboard.pbix          # Main Power BI project file
-├── README.md                       # GitHub documentation file
-├── images/
-│   └── spotify-dashboard-preview.png (optional) 
-└── data/
-    └── (Optional CSV or Excel raw data files)
